@@ -11,10 +11,9 @@
                 ]
             },
             "properties": {
-                "SITENAME": "Columbia Generating Sta",
-                "COUNTRY": "UNITED STATES",
-                "URL": "http://www.nrc.gov/info-finder/reactor/wash2.html",
-                "LICENSED_MWT": "3486"
+                "name": "Columbia Generating Sta",
+                "state": "UNITED STATES",
+                "url": "http://www.nrc.gov/info-finder/reactor/wash2.html"
             }
         }
      ]
