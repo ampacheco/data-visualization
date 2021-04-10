@@ -1,17 +1,21 @@
 {
     "type": "FeatureCollection",
     "features": [
-        
-        {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      "-85.67330523",
-      "37.5858662"
-    ]
-  },
-}
-
+ {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-119.333",
+                    "46.4714"
+                ]
+            },
+            "properties": {
+                "SITENAME": "Columbia Generating Sta",
+                "COUNTRY": "UNITED STATES",
+                "URL": "http://www.nrc.gov/info-finder/reactor/wash2.html",
+                "LICENSED_MWT": "3486"
+            }
+        }
      ]
 }
