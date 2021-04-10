@@ -1,20 +1,6 @@
 {
     "type": "FeatureCollection",
     "features": [
- {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-119.333",
-                    "46.4714"
-                ]
-            },
-            "properties": {
-                "name": "Columbia Generating Sta",
-                "state": "UNITED STATES",
-                "url": "http://www.nrc.gov/info-finder/reactor/wash2.html"
-            }
-        }
+
      ]
 }
