@@ -1,19 +1,5 @@
 {
     "type": "FeatureCollection",
     "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    "-93.2308",
-                    "35.2267"
-                ]
-            },
-            "properties": {
-                "SITENAME": "ARKANSAS ONE",
-                "COUNTRY": "UNITED STATES",
-                "URL": "http://www.nrc.gov/info-finder/reactor/ano1.html",
-                "LICENSED_MWT": "2568"
-            }
- ]}
+     ]
+}
