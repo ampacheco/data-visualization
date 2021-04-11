@@ -8,4 +8,4 @@ A initiative to consolidate resources like APIs, visualizations tools, and too m
 ## Resources: 
 
 - [National Park Service Developer Resources Home and API](https://www.nps.gov/subjects/developer/api-documentation.htm)
-- [Geojson Org](https://geojson.org/) and [Geojson Spec](https://tools.ietf.org/html/rfc7946) 
+- [GeoJSON Org](https://geojson.org/) and [GeoJSON Spec](https://tools.ietf.org/html/rfc7946) 
