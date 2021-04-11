@@ -2,8 +2,7 @@
 
 [![screenshot](https://github.com/ampacheco/data-visualization/blob/main/img/map-preview.png)](https://github.com/ampacheco/data-visualization/blob/main/data/national-parks.geojson)
 
-A initiative to consolidate resources like APIs, visualizations tools, and too many others that showcase USA national park service and National Park Foundation. 
-
+An initiative to consolidate and explore resources like APIs, visualizations tools, and too many others that showcase USA national park service and National Park Foundation. 
 
 ## Resources: 
 
