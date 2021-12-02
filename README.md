@@ -8,3 +8,4 @@ An initiative to consolidate and explore resources like APIs, visualizations too
 
 - [National Park Service Developer Resources Home and API](https://www.nps.gov/subjects/developer/api-documentation.htm)
 - [GeoJSON Org](https://geojson.org/) and [GeoJSON Spec](https://tools.ietf.org/html/rfc7946) 
+- [Gavinr GitHub](https://github.com/gavinr)
